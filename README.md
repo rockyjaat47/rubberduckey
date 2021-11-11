@@ -2,6 +2,9 @@ hello guy's Today i will show you what is USB Rubber duckey you know ,But it is 
 
 <img src="duckey.jpg">
 
+### Dwonload Payload Files From This Link 🦖
+<a href="https://drive.google.com/drive/folders/1Vmws-_yfzymV8ziBMM4rBs8z94u0uWER?usp=sharing"> Payloads Drive </a>
+
 ### Buy Form this link 
 <a href="https://www.amazon.in/Hak5-Rubber-Ducky-Deluxe-Field/dp/B073VRKJ7P"> USB rubber ducky </a>
 
